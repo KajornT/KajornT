@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I'm KajornT, a student of computer science department👩🏻‍💻💻studying at Nakhon Ratchasima Rajabhat University [nrru.ac.th](https://web2.nrru.ac.th/) ✌🏼👓
+
+I have a passion for clean code, Java, teaching, PHP, Lifeguarding and Javascript
+
+[LinkedIn 💼]()
+
+[Twitter 🐦](https://twitter.com/MonCMN)
+
+[Website 🌍]()
+
+[Email 📬](mailto:riogame45@gmail.com)
+
+
 <!--
 **Mongsier/Mongsier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
